@@ -1,5 +1,7 @@
 # YouTube Dancer
 
+[Watch on YouTube](https://youtu.be/0b9U3f2VEf0)
+
 Got the vibes? Start dancing to the beat of your favorite YouTube music video!
 What is this?
 YouTube Dancer is a web app that overlays a digital skeleton on top of YouTube videos. It uses your webcam and pose detection to create a virtual dancer that follows your movements in real-time.
